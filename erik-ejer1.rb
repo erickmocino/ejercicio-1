@@ -1,3 +1,4 @@
+#modificando el rachivo para hacer una prueba y subirlo a git
 # Ejercicio de variables y constantes
 =begin
 title = "mi primer ejercicio"
